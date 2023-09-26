@@ -2,7 +2,7 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     text-align: center;
-    /* background-color: hsl(212, 45%, 89%); */
+    background-color: hsl(212, 45%, 89%);
 }
 
 .title {
@@ -20,7 +20,7 @@ body {
     background-color: white;
     /* margin: 200px auto 200px auto; */
     width: 20%;
-    margin: 100px auto;
+    margin: 200px auto;
     border-radius: 25px;
     box-shadow: 20px 20px 25px -20px gray;
 }
@@ -32,9 +32,9 @@ img {
     margin: 20px auto auto auto;
 }
 
-.main-container {
+/* .main-container {
     background-color: hsl(212, 45%, 89%);
     margin: 100px 100px;
     padding: 50px 25px;
     /* margin: auto; */
-}
+} */
